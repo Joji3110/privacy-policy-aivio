@@ -75,7 +75,7 @@
 
 По любым вопросам, связанным с настоящей Политикой конфиденциальности или обработкой ваших персональных данных, свяжитесь с нами:
 
-- **Email:** support@aivio.app
+- **Email:** adamtechkg@gmail.com
 - **Приложение:** AIVIO — чат-центр
 
 ---
@@ -151,7 +151,7 @@ We may update this Policy from time to time. The current version is always avail
 
 For any questions regarding this Privacy Policy or the processing of your personal data, please contact us:
 
-- **Email:** support@aivio.app
+- **Email:** adamtechkg@gmail.com
 - **Application:** AIVIO — chat center
 
 ---
